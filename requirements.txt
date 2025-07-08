@@ -1,0 +1,4 @@
+flask==3.0.3
+python-dotenv
+google-generativeai
+gunicorn==23.0.0
